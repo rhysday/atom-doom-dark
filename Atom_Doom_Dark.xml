@@ -363,8 +363,8 @@
         object_active="#c678dd"
         text_keyframe="#ecbe7b"
         camera="#dfdfdf"
-        empty="#dfdfdf"
-        light="#dfdfdf00"
+        empty="#dfb2b5"
+        light="#df781d0f"
         speaker="#0d0d0d"
         vertex="#000000"
         vertex_select="#46d9ff"
@@ -476,10 +476,10 @@
         channel_group="#5b6268"
         active_channels_group="#337fcc"
         preview_range="#00000080"
-        vertex="#000000"
+        vertex="#adadad"
         vertex_select="#00bdff"
-        vertex_active="#ffffff"
-        vertex_size="8"
+        vertex_active="#ffde3e"
+        vertex_size="6"
         vertex_bevel="#000000"
         vertex_unreferenced="#404040"
         handle_free="#000000"
@@ -949,7 +949,7 @@
         node_backdrop="#282c34ff"
         converter_node="#51afef"
         color_node="#46d9ff"
-        group_node="#3f444a"
+        group_node="#3f444aff"
         group_socket_node="#1c1f24"
         frame_node="#3f444a7d"
         matte_node="#3f444a"
@@ -1368,140 +1368,140 @@
         normal="#9a0000"
         select="#bd1111"
         active="#f70a0a"
-        show_colored_constraints="FALSE"
+        show_colored_constraints="TRUE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
         normal="#f74018"
         select="#f66913"
         active="#fa9900"
-        show_colored_constraints="FALSE"
+        show_colored_constraints="TRUE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
         normal="#1e9109"
         select="#59b70b"
         active="#83ef1d"
-        show_colored_constraints="FALSE"
+        show_colored_constraints="TRUE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
         normal="#0a3694"
         select="#3667df"
         active="#65ceff"
-        show_colored_constraints="FALSE"
+        show_colored_constraints="TRUE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
         normal="#a9294e"
         select="#c1416a"
         active="#f05d91"
-        show_colored_constraints="FALSE"
+        show_colored_constraints="TRUE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
         normal="#430c78"
         select="#543aa3"
         active="#8764d5"
-        show_colored_constraints="FALSE"
+        show_colored_constraints="TRUE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
         normal="#24785a"
         select="#3c9579"
         active="#6fb6ab"
-        show_colored_constraints="FALSE"
+        show_colored_constraints="TRUE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
         normal="#4b707c"
         select="#6a8691"
         active="#9bc2cd"
-        show_colored_constraints="FALSE"
+        show_colored_constraints="TRUE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
         normal="#f4c90c"
         select="#eec236"
         active="#f3ff00"
-        show_colored_constraints="FALSE"
+        show_colored_constraints="TRUE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
         normal="#1e2024"
         select="#484c56"
         active="#ffffff"
-        show_colored_constraints="FALSE"
+        show_colored_constraints="TRUE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
         normal="#6f2f6a"
         select="#9845be"
         active="#d330d6"
-        show_colored_constraints="FALSE"
+        show_colored_constraints="TRUE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
         normal="#6c8e22"
         select="#7fb022"
         active="#bbef5b"
-        show_colored_constraints="FALSE"
+        show_colored_constraints="TRUE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
         normal="#8d8d8d"
         select="#b0b0b0"
         active="#dedede"
-        show_colored_constraints="FALSE"
+        show_colored_constraints="TRUE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
-        normal="#834326"
-        select="#8b5811"
-        active="#bd6a11"
-        show_colored_constraints="FALSE"
+        normal="#023535"
+        select="#015958"
+        active="#008f8c"
+        show_colored_constraints="TRUE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
-        normal="#08310e"
-        select="#1c430b"
-        active="#34622b"
-        show_colored_constraints="FALSE"
+        normal="#0c7391"
+        select="#0d97a8"
+        active="#86d3cb"
+        show_colored_constraints="TRUE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
-        normal="#000000"
-        select="#000000"
-        active="#000000"
-        show_colored_constraints="FALSE"
+        normal="#025159"
+        select="#3f858c"
+        active="#7ab8bf"
+        show_colored_constraints="TRUE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
-        normal="#000000"
-        select="#000000"
-        active="#010000"
-        show_colored_constraints="FALSE"
+        normal="#4e3baf"
+        select="#7d5ffb"
+        active="#c5b1f9"
+        show_colored_constraints="TRUE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
-        normal="#000000"
-        select="#000000"
-        active="#000000"
-        show_colored_constraints="FALSE"
+        normal="#95ab63"
+        select="#bdd684"
+        active="#e2f0d6"
+        show_colored_constraints="TRUE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
-        normal="#000000"
-        select="#000000"
-        active="#000000"
-        show_colored_constraints="FALSE"
+        normal="#59302c"
+        select="#733a2d"
+        active="#a65638"
+        show_colored_constraints="TRUE"
         >
       </ThemeBoneColorSet>
       <ThemeBoneColorSet
-        normal="#000000"
-        select="#000000"
-        active="#000000"
-        show_colored_constraints="FALSE"
+        normal="#394159"
+        select="#568ebf"
+        active="#82c0d9"
+        show_colored_constraints="TRUE"
         >
       </ThemeBoneColorSet>
     </bone_color_sets>
@@ -1581,7 +1581,7 @@
   <ThemeStyle>
     <panel_title>
       <ThemeFontStyle
-        points="11"
+        points="12"
         shadow="1"
         shadow_offset_x="0"
         shadow_offset_y="-1"
@@ -1592,7 +1592,7 @@
     </panel_title>
     <widget_label>
       <ThemeFontStyle
-        points="10"
+        points="11"
         shadow="3"
         shadow_offset_x="0"
         shadow_offset_y="-1"
@@ -1603,7 +1603,7 @@
     </widget_label>
     <widget>
       <ThemeFontStyle
-        points="10"
+        points="11"
         shadow="0"
         shadow_offset_x="0"
         shadow_offset_y="-1"
